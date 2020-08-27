@@ -10,6 +10,7 @@ public class Main {
 		
 		System.out.println(a+d>b+c?b+c:a+d);
 		
+		
 	}
 	
 }
